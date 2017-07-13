@@ -1,0 +1,82 @@
+body {
+    font-family: arial, helvetica;
+    background-color: #2c3338;
+    color: #fcfbfb;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+input {
+    font-family: arial, helvetica;
+    font-size: 14px;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin: 100px auto;
+    width: 1000px;
+}
+
+.st1 {
+    margin-left: 22px;
+    margin-top: 10px;
+}
+
+.st2 {
+    margin-left: 33px;
+    margin-top: 10px;
+}
+
+.st3 {
+    margin-top: 10px;
+}
+
+.st4 {
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.st5 {
+    margin-top: 25px;
+    width: 256px;
+    height: 50px;
+}
+
+.st5:hover { 
+    background: rgb(201,201,201); 
+    border-radius: 5px;
+}
+
+.st5:active {
+    background: rgb(235,236,236);
+    box-shadow: 0 -3px rgb(201,201,201) inset;
+}
+
+.st6 {
+    margin-left: 39px;
+    margin-top: 10px;
+}
+
+.st7 {
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.st8 {
+    margin-top: 25px;
+    width:261px;
+    height:50px;
+}
+
+.st8:hover {
+    background: rgb(201,201,201);
+    border-radius: 5px;
+}
+
+.st8:active {
+    background: rgb(235,236,236);
+    box-shadow: 0 -3px rgb(201,201,201) inset;
+}
+
